@@ -1,7 +1,7 @@
-﻿56565656
+19871987
+pelmeni
+56565656
 FFgFF42
-#include "SessionAgregator.h"  
-#include "../settings/Settings.h" 
 #include "../db/DbConnection.h"
 #include <boost/uuid/uuid_generators.hpp>
 #include <boost/uuid/uuid_io.hpp>
